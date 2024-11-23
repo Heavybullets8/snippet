@@ -1,0 +1,43 @@
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_main_tmpl.py", line 88, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_main_tmpl.py", line 88, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_main_tmpl.py", line 272, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_main_tmpl.py", line 272, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_include_overlays_tmpl.py", line 464, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_include_overlays_tmpl.py", line 464, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_include_overlays_tmpl.py", line 533, in respond
+TypeError: string indices must be integers, not 'str'
+2024-11-22 01:13:25,693::INFO::[filesystem:990] Cannot remove folder /media/download/usenet/series/_UNPACK_REDACTED_FILENAME
+Traceback (most recent call last):
+  File "/app/sabnzbd/filesystem.py", line 988, in remove_all
+    shutil.rmtree(path)
+    ~~~~~~~~~~~~~^^^^^^
+  File "/usr/local/lib/python3.13/shutil.py", line 763, in rmtree
+    _rmtree_safe_fd(stack, onexc)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.13/shutil.py", line 707, in _rmtree_safe_fd
+    onexc(func, path, err)
+    ~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.13/shutil.py", line 658, in _rmtree_safe_fd
+    os.rmdir(name, dir_fd=dirfd)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 39] Directory not empty: '/media/download/usenet/series/_UNPACK_REDACTED_FILENAME'
