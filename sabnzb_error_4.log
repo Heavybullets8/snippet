@@ -1,0 +1,114 @@
+2024-11-22 16:18:54,582::INFO::[newsunpack:863] Unpacked 2 files/folders in 1 min 16 seconds
+2024-11-22 16:18:55,766::INFO::[newsunpack:314] Unrar finished on /tmp/test_download_10GB.2
+2024-11-22 16:18:56,935::INFO::[postproc:477] Unpacked files ['/media/download/usenet/manual/_UNPACK_test_download_10GB.2/10GB-explanation.txt', '/media/download/usenet/manual/_UNPACK_test_download_10GB.2/10GB.bin']
+2024-11-22 16:18:56,935::INFO::[filesystem:341] Checking if any resulting filenames need to be sanitized
+2024-11-22 16:18:56,935::INFO::[postproc:481] Finished unpack_magic on test_download_10GB
+2024-11-22 16:18:56,941::INFO::[postproc:575] Running deobfuscate
+2024-11-22 16:18:56,942::INFO::[deobfuscate_filenames:297] Deobfuscate renaming /media/download/usenet/manual/test_download_10GB.2/10GB.bin to /media/download/usenet/manual/test_download_10GB.2/test_download_10GB.bin
+2024-11-22 16:18:56,943::INFO::[deobfuscate_filenames:308] Deobfuscate renaming /media/download/usenet/manual/test_download_10GB.2/10GB-explanation.txt to /media/download/usenet/manual/test_download_10GB.2/test_download_10GB-explanation.txt
+2024-11-22 16:18:56,945::INFO::[misc:1260] [N/A] Running external command: ['/config/scripts/replace_for.py', '/media/download/usenet/manual/test_download_10GB.2', 'test_download_10GB.nzb', 'test_download_10GB', '', '*', 'alt.binaries.test', '0', '']
+2024-11-22 16:18:56,970::INFO::[nzbstuff:1805] [N/A] Purging data for job test_download_10GB (delete_all_data=True)
+2024-11-22 16:18:56,970::INFO::[notifier:157] Sending notification: Download Completed - test_download_10GB (type=complete, job_cat=*)
+2024-11-22 16:18:56,977::INFO::[database:300] Added job test_download_10GB to history
+2024-11-22 16:18:56,977::INFO::[postproc:138] Saving postproc queue
+2024-11-22 16:18:56,977::INFO::[downloader:409] Post-processing finished, resuming download
+2024-11-22 16:18:57,044::INFO::[newswrapper:421] 30@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,044::INFO::[newswrapper:421] 56@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,044::INFO::[newswrapper:421] 5@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,045::INFO::[newswrapper:421] 31@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,045::INFO::[newswrapper:421] 57@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,045::INFO::[newswrapper:421] 6@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,046::INFO::[newswrapper:421] 32@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,046::INFO::[newswrapper:421] 58@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,046::INFO::[newswrapper:421] 7@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,046::INFO::[newswrapper:421] 33@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,046::INFO::[newswrapper:421] 59@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,046::INFO::[newswrapper:421] 8@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,047::INFO::[newswrapper:421] 34@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,047::INFO::[newswrapper:421] 60@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,047::INFO::[newswrapper:421] 9@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,047::INFO::[newswrapper:421] 35@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,047::INFO::[newswrapper:421] 61@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,047::INFO::[newswrapper:421] 10@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,048::INFO::[newswrapper:421] 36@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,048::INFO::[newswrapper:421] 62@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,048::INFO::[newswrapper:421] 11@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,048::INFO::[newswrapper:421] 37@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,048::INFO::[newswrapper:421] 63@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,048::INFO::[newswrapper:421] 12@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,048::INFO::[newswrapper:421] 38@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,049::INFO::[newswrapper:421] 64@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,049::INFO::[newswrapper:421] 13@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,049::INFO::[newswrapper:421] 39@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,049::INFO::[newswrapper:421] 65@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,049::INFO::[newswrapper:421] 14@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,049::INFO::[newswrapper:421] 40@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,050::INFO::[newswrapper:421] 66@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,050::INFO::[newswrapper:421] 15@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,050::INFO::[newswrapper:421] 41@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,050::INFO::[newswrapper:421] 67@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,050::INFO::[newswrapper:421] 16@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,050::INFO::[newswrapper:421] 42@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,050::INFO::[newswrapper:421] 68@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,051::INFO::[newswrapper:421] 17@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,051::INFO::[newswrapper:421] 43@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,051::INFO::[newswrapper:421] 69@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,051::INFO::[newswrapper:421] 18@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,051::INFO::[newswrapper:421] 44@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,051::INFO::[newswrapper:421] 70@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,051::INFO::[newswrapper:421] 19@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,052::INFO::[newswrapper:421] 45@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,052::INFO::[newswrapper:421] 71@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,052::INFO::[newswrapper:421] 20@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,052::INFO::[newswrapper:421] 46@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,052::INFO::[newswrapper:421] 72@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,052::INFO::[newswrapper:421] 21@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,053::INFO::[newswrapper:421] 47@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,053::INFO::[newswrapper:421] 73@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,053::INFO::[newswrapper:421] 22@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,053::INFO::[newswrapper:421] 48@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,053::INFO::[newswrapper:421] 74@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,053::INFO::[newswrapper:421] 23@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,053::INFO::[newswrapper:421] 49@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,054::INFO::[newswrapper:421] 75@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,054::INFO::[newswrapper:421] 24@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,054::INFO::[newswrapper:421] 50@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,054::INFO::[newswrapper:421] 76@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,054::INFO::[newswrapper:421] 25@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,054::INFO::[newswrapper:421] 51@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,054::INFO::[newswrapper:421] 77@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,055::INFO::[newswrapper:421] 26@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,055::INFO::[newswrapper:421] 1@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,055::INFO::[newswrapper:421] 52@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,055::INFO::[newswrapper:421] 78@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,055::INFO::[newswrapper:421] 27@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,055::INFO::[newswrapper:421] 2@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,055::INFO::[newswrapper:421] 53@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,056::INFO::[newswrapper:421] 79@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+2024-11-22 16:18:57,056::INFO::[newswrapper:421] 28@news.frugalusenet.com: Failed to close socket (error=TLS/SSL connection has been closed (EOF) (_ssl.c:2427))
+Exception ignored in: <function IOBase.__del__ at 0x7fd6c5aadf80>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.13/_pyio.py", line 418, in __del__
+    self.close()
+  File "/usr/local/lib/python3.13/_pyio.py", line 1313, in close
+    self.flush()
+  File "/usr/local/lib/python3.13/_pyio.py", line 1274, in flush
+    self._flush_unlocked()
+  File "/usr/local/lib/python3.13/site-packages/cheroot/makefile.py", line 33, in _flush_unlocked
+    n = self.raw.write(bytes(self._write_buf))
+  File "/usr/local/lib/python3.13/socket.py", line 737, in write
+    return self._sock.send(b)
+OSError: [Errno 9] Bad file descriptor
+Exception ignored in: <function IOBase.__del__ at 0x7fd6c5aadf80>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.13/_pyio.py", line 418, in __del__
+    self.close()
+  File "/usr/local/lib/python3.13/_pyio.py", line 1313, in close
+    self.flush()
+  File "/usr/local/lib/python3.13/_pyio.py", line 1274, in flush
+    self._flush_unlocked()
+  File "/usr/local/lib/python3.13/site-packages/cheroot/makefile.py", line 33, in _flush_unlocked
+    n = self.raw.write(bytes(self._write_buf))
+  File "/usr/local/lib/python3.13/socket.py", line 737, in write
+    return self._sock.send(b)
+OSError: [Errno 9] Bad file descriptor
