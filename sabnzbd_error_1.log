@@ -1,0 +1,697 @@
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_main_tmpl.py", line 88, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_main_tmpl.py", line 88, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_main_tmpl.py", line 272, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_main_tmpl.py", line 272, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_include_overlays_tmpl.py", line 464, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_include_overlays_tmpl.py", line 464, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_include_overlays_tmpl.py", line 533, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_main_tmpl.py", line 88, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_main_tmpl.py", line 88, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_main_tmpl.py", line 272, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_main_tmpl.py", line 272, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_include_overlays_tmpl.py", line 464, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_include_overlays_tmpl.py", line 464, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_include_overlays_tmpl.py", line 533, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString()Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+:
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_sorting_tmpl.py", line 524, in respond
+  File "_app_interfaces_Config_templates_config_folders_tmpl.py", line 261, in respond
+TypeError: string indices must be integers, not 'str'
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_sorting_tmpl.py", line 524, in respond
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString()TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 743, in respond
+:
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 176, in respond
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_sorting_tmpl.py", line 524, in respond
+TypeError: string indices must be integers, not 'str'
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+TypeError: Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString()Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_sorting_tmpl.py", line 524, in respond
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+:
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 190, in respond
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 743, in respond
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 193, in respond
+TypeError: TypeError: string indices must be integers, not 'str'
+TypeError: string indices must be integers, not 'str'Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+
+string indices must be integers, not 'str'Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 190, in respond
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 193, in respond
+TypeError  File "_app_interfaces_Config_templates_config_sorting_tmpl.py", line 524, in respond
+: string indices must be integers, not 'str'TypeError: TypeError: string indices must be integers, not 'str'string indices must be integers, not 'str'TypeError
+: 
+
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+string indices must be integers, not 'str'Traceback (most recent call last):
+
+  File "_app_interfaces_Config_templates_config_sorting_tmpl.py", line 524, in respond
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 743, in respond
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 190, in respond
+Traceback (most recent call last):
+TypeError:   File "_app_interfaces_Config_templates_config_general_tmpl.py", line 193, in respond
+TypeError: string indices must be integers, not 'str'
+string indices must be integers, not 'str'Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_sorting_tmpl.py", line 524, in respond
+TypeError: Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+TypeError: Traceback (most recent call last):
+string indices must be integers, not 'str'  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 193, in respond
+TypeError: 
+string indices must be integers, not 'str'Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+TypeError: Traceback (most recent call last):
+
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 743, in respond
+string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+string indices must be integers, not 'str'
+TypeErrorTraceback (most recent call last):
+:   File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 190, in respond
+string indices must be integers, not 'str'Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+
+Traceback (most recent call last):
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+TypeError  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 193, in respond
+TypeError: Traceback (most recent call last):
+:   File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 743, in respond
+string indices must be integers, not 'str'
+string indices must be integers, not 'str'Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+
+TypeError: Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+string indices must be integers, not 'str'Traceback (most recent call last):
+
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 190, in respond
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+TypeError:   File "_app_interfaces_Config_templates_config_general_tmpl.py", line 193, in respond
+string indices must be integers, not 'str'TypeError: 
+Traceback (most recent call last):
+string indices must be integers, not 'str'Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 743, in respond
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 190, in respond
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+TypeError: TypeErrorTraceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: : string indices must be integers, not 'str'string indices must be integers, not 'str'
+
+string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 743, in respond
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 229, in respond
+TypeError: Traceback (most recent call last):
+TypeError:   File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: string indices must be integers, not 'str'string indices must be integers, not 'str'
+
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+string indices must be integers, not 'str'Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+
+Traceback (most recent call last):
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 743, in respond
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 229, in respond
+Traceback (most recent call last):
+TypeError:   File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: string indices must be integers, not 'str'
+string indices must be integers, not 'str'Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: TypeError: string indices must be integers, not 'str'string indices must be integers, not 'str'
+
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 743, in respond
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 229, in respond
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+TypeError:   File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: string indices must be integers, not 'str'
+string indices must be integers, not 'str'TypeErrorException ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+: string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+TypeError: 
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 229, in respond
+string indices must be integers, not 'str'Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 743, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+TypeErrorTraceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: :   File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 229, in respond
+string indices must be integers, not 'str'string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+
+TypeError: Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+string indices must be integers, not 'str'Traceback (most recent call last):
+
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 743, in respond
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+string indices must be integers, not 'str'TypeError: Traceback (most recent call last):
+string indices must be integers, not 'str'  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 229, in respond
+
+
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 743, in respond
+TypeError: TypeErrorTraceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+string indices must be integers, not 'str': 
+string indices must be integers, not 'str'Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+
+Traceback (most recent call last):
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+TypeError:   File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 725, in respond
+TypeError: string indices must be integers, not 'str'string indices must be integers, not 'str'
+
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+TypeErrorTraceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: :   File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+string indices must be integers, not 'str'string indices must be integers, not 'str'
+
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 786, in respond
+TypeError:   File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: TypeError: string indices must be integers, not 'str'string indices must be integers, not 'str'
+string indices must be integers, not 'str'Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 1199, in respond
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+TypeError: Traceback (most recent call last):
+string indices must be integers, not 'str'
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: TypeError: Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+string indices must be integers, not 'str'Traceback (most recent call last):
+
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+string indices must be integers, not 'str'Traceback (most recent call last):
+
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 1333, in respond
+Traceback (most recent call last):
+TypeError: TypeError  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+: TypeError: string indices must be integers, not 'str'string indices must be integers, not 'str'
+
+string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError:   File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 1344, in respond
+string indices must be integers, not 'str'
+TypeError: Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+string indices must be integers, not 'str'Traceback (most recent call last):
+
+TypeError:   File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+string indices must be integers, not 'str'string indices must be integers, not 'str'
+
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError:   File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 1355, in respond
+string indices must be integers, not 'str'TypeError: 
+string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+TypeErrorTraceback (most recent call last):
+:   File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+string indices must be integers, not 'str'
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+string indices must be integers, not 'str'TypeError: Traceback (most recent call last):
+string indices must be integers, not 'str'  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 1366, in respond
+
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+TypeError: string indices must be integers, not 'str'Traceback (most recent call last):
+TypeError
+: Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+string indices must be integers, not 'str'Traceback (most recent call last):
+
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 1435, in respond
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+string indices must be integers, not 'str'TypeError: Traceback (most recent call last):
+string indices must be integers, not 'str'  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+
+
+TypeErrorException ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+: string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+TypeErrorTraceback (most recent call last):
+: string indices must be integers, not 'str'  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeErrorTypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeErrorTypeError: : string indices must be integers, not 'str'string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString()
+:
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: string indices must be integers, not 'str'TypeError
+: Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+string indices must be integers, not 'str'Traceback (most recent call last):
+
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 992, in respond
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: TypeError: string indices must be integers, not 'str'string indices must be integers, not 'str'
+
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 992, in respond
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: string indices must be integers, not 'str'TypeError: 
+string indices must be integers, not 'str'Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+
+Traceback (most recent call last):
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 992, in respond
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: string indices must be integers, not 'str'
+TypeErrorException ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+: Traceback (most recent call last):
+string indices must be integers, not 'str'  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 992, in respond
+
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 992, in respond
+TypeError: string indices must be integers, not 'str'TypeError: 
+string indices must be integers, not 'str'Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+
+Traceback (most recent call last):
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 992, in respond
+TypeError: TypeError: string indices must be integers, not 'str'string indices must be integers, not 'str'
+
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 992, in respond
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: TypeError: string indices must be integers, not 'str'string indices must be integers, not 'str'
+
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 992, in respond
+TypeError: TypeError: string indices must be integers, not 'str'string indices must be integers, not 'str'
+
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 992, in respond
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: TypeError: string indices must be integers, not 'str'string indices must be integers, not 'str'
+
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 992, in respond
+TypeError: string indices must be integers, not 'str'
+TypeError: Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+string indices must be integers, not 'str'Traceback (most recent call last):
+
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 992, in respond
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: TypeError: string indices must be integers, not 'str'string indices must be integers, not 'str'
+
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 992, in respond
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: TypeError: string indices must be integers, not 'str'
+string indices must be integers, not 'str'Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+
+Traceback (most recent call last):
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 1221, in respond
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 238, in respond
+TypeError: TypeError: string indices must be integers, not 'str'string indices must be integers, not 'str'
+
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 1221, in respond
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 755, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 1221, in respond
+TypeError: TypeErrorstring indices must be integers, not 'str': 
+string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 1221, in respond
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_general_tmpl.py", line 755, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 1221, in respond
+TypeErrorTypeError: : string indices must be integers, not 'str'string indices must be integers, not 'str'
+
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 1221, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 1221, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 1221, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 1221, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 1221, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 1221, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 1221, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_notify_tmpl.py", line 101, in show_notify_checkboxes
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 190, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 190, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 190, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 190, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 190, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 190, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 229, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 229, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 229, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 229, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 229, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 229, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 725, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 786, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 1199, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 1333, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 1344, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 1355, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 1366, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Config_templates_config_switches_tmpl.py", line 1435, in respond
+TypeError: string indices must be integers, not 'str'
+2024-11-22 12:49:43,366::INFO::[config:998] Writing settings to INI file /config/sabnzbd.ini
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_main_tmpl.py", line 88, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_main_tmpl.py", line 88, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_main_tmpl.py", line 272, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_main_tmpl.py", line 272, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_include_overlays_tmpl.py", line 464, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_include_overlays_tmpl.py", line 464, in respond
+TypeError: string indices must be integers, not 'str'
+Exception ignored in PyMapping_HasKeyString(); consider using PyMapping_HasKeyStringWithError(), PyMapping_GetOptionalItemString() or PyMapping_GetItemString():
+Traceback (most recent call last):
+  File "_app_interfaces_Glitter_templates_include_overlays_tmpl.py", line 533, in respond
+TypeError: string indices must be integers, not 'str'
