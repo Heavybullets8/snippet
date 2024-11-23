@@ -1,0 +1,81 @@
+2024-11-22 01:11:44,254::INFO::[postproc:138] Saving postproc queue
+2024-11-22 01:11:44,275::INFO::[directunpacker:328] DirectUnpacked volume 44 for yay
+2024-11-22 01:11:44,297::INFO::[directunpacker:328] DirectUnpacked volume 55 for yay
+2024-11-22 01:11:44,368::INFO::[nzbstuff:1742] Detected filename based on par2: 254f453c91f9d75a872cf6c4829cb195 -> yay.part64.rar
+2024-11-22 01:11:44,452::INFO::[nzbstuff:1742] Detected filename based on par2: 229798c2c204958fe468c423cbc88bd1 -> yay.part39.rar
+2024-11-22 01:11:44,497::INFO::[directunpacker:328] DirectUnpacked volume 45 for yay
+2024-11-22 01:11:44,498::INFO::[directunpacker:328] DirectUnpacked volume 56 for yay
+2024-11-22 01:11:44,506::INFO::[assembler:88] Decoding finished /tmp/REDACTED_FILENAME/yay.part32.rar
+2024-11-22 01:11:44,568::INFO::[assembler:88] Decoding finished /tmp/REDACTED_FILENAME/yay.part65.rar
+2024-11-22 01:11:44,698::INFO::[directunpacker:328] DirectUnpacked volume 46 for yay
+2024-11-22 01:11:44,699::INFO::[directunpacker:328] DirectUnpacked volume 57 for yay
+2024-11-22 01:11:44,726::INFO::[assembler:88] Decoding finished /tmp/REDACTED_FILENAME/yay.part25.rar
+2024-11-22 01:11:44,815::INFO::[nzbstuff:1742] Detected filename based on par2: 29cd84bd59cca57bcb41539c8dda2e77 -> yay.part45.rar
+2024-11-22 01:11:44,859::INFO::[nzbstuff:1742] Detected filename based on par2: 2979e47e82905b568c1c67784f9566d5 -> yay.part29.rar
+2024-11-22 01:11:44,899::INFO::[directunpacker:328] DirectUnpacked volume 47 for yay
+2024-11-22 01:11:44,900::INFO::[directunpacker:328] DirectUnpacked volume 58 for yay
+2024-11-22 01:11:44,983::INFO::[nzbstuff:1742] Detected filename based on par2: 37fb0e4c190b71caa37f8dc90be40c0f -> yay.part17.rar
+2024-11-22 01:11:44,985::INFO::[nzbstuff:1742] Detected filename based on par2: 2bc81fc68f1892f7099ccff1274e01a1 -> yay.part18.rar
+2024-11-22 01:11:45,099::INFO::[directunpacker:328] DirectUnpacked volume 48 for yay
+2024-11-22 01:11:45,100::INFO::[directunpacker:328] DirectUnpacked volume 59 for yay
+2024-11-22 01:11:45,177::INFO::[nzbstuff:1742] Detected filename based on par2: 27d9a7c55464c34c9f0c2a3dc23be045 -> yay.part47.rar
+2024-11-22 01:11:45,211::INFO::[assembler:88] Decoding finished /tmp/REDACTED_FILENAME/yay.part29.rar
+2024-11-22 01:11:45,213::INFO::[nzbstuff:1742] Detected filename based on par2: 8be882835c6a165cb5f280c505d9fcbb -> yay.part34.rar
+2024-11-22 01:11:45,237::INFO::[nzbstuff:1742] Detected filename based on par2: ec3b8ad0ba3b30111233a2b903565dec -> yay.part04.rar
+2024-11-22 01:11:45,238::INFO::[nzbstuff:1742] Detected filename based on par2: ec262bd177056e728c275c52d0a7b67f -> yay.part03.rar
+2024-11-22 01:11:45,249::INFO::[nzbstuff:1742] Detected filename based on par2: eb1c850482737b1a4b6df01835289d81 -> yay.part26.rar
+2024-11-22 01:11:45,259::INFO::[nzbstuff:1742] Detected filename based on par2: e45757ff03229f623904ab6d7775c8fe -> yay.part02.rar
+2024-11-22 01:11:45,273::INFO::[nzbstuff:1742] Detected filename based on par2: ab0f3ed896531c426bf011862370a7d9 -> yay.part51.rar
+2024-11-22 01:11:45,286::INFO::[nzbstuff:1742] Detected filename based on par2: e8662f94b1a3616cc6d8920551477e58 -> yay.part13.rar
+2024-11-22 01:11:45,300::INFO::[directunpacker:328] DirectUnpacked volume 49 for yay
+2024-11-22 01:11:45,301::INFO::[directunpacker:328] DirectUnpacked volume 60 for yay
+2024-11-22 01:11:45,310::INFO::[nzbstuff:1742] Detected filename based on par2: b7b7e15c8a56227fed866b06978b46d6 -> yay.part56.rar
+2024-11-22 01:11:45,312::INFO::[nzbstuff:1742] Detected filename based on par2: 96fa3d30388c994599ae137c93c3acec -> yay.part36.rar
+2024-11-22 01:11:45,315::INFO::[nzbstuff:1742] Detected filename based on par2: e249be7ebc8d1dc4377452966df31f61 -> yay.part16.rar
+2024-11-22 01:11:45,348::INFO::[nzbstuff:1742] Detected filename based on par2: 4bcb2a34b8146120d92881e8bc1dd1aa -> yay.part30.rar
+2024-11-22 01:11:45,379::INFO::[nzbstuff:1742] Detected filename based on par2: 4f3aa06734d305d3d148daca5723df70 -> yay.part05.rar
+2024-11-22 01:11:45,383::INFO::[nzbstuff:1742] Detected filename based on par2: d4a673f5ac0acc5d74bb40a8f48800d3 -> yay.part61.rar
+2024-11-22 01:11:45,386::INFO::[nzbstuff:1742] Detected filename based on par2: 789847d27960fb50f0be1e6171c5b85f -> yay.part54.rar
+2024-11-22 01:11:45,420::INFO::[nzbstuff:1742] Detected filename based on par2: 2fc7e123d24fc484454999a021471f09 -> yay.part09.rar
+2024-11-22 01:11:45,445::INFO::[assembler:88] Decoding finished /tmp/REDACTED_FILENAME/yay.part64.rar
+2024-11-22 01:11:45,501::INFO::[directunpacker:328] DirectUnpacked volume 50 for yay
+2024-11-22 01:11:45,501::INFO::[directunpacker:328] DirectUnpacked volume 61 for yay
+2024-11-22 01:11:45,541::INFO::[nzbstuff:1742] Detected filename based on par2: ae3107c665c0796ce88e8b4c760064c7 -> yay.part20.rar
+2024-11-22 01:11:45,555::INFO::[nzbstuff:1742] Detected filename based on par2: de63850844cbe9a8d0046c69acc6ad62 -> yay.part41.rar
+2024-11-22 01:11:45,556::INFO::[nzbstuff:1742] Detected filename based on par2: 3070792b6b2e3d2b5636984a3e81137b -> yay.part23.rar
+2024-11-22 01:11:45,637::INFO::[assembler:88] Decoding finished /tmp/REDACTED_FILENAME/yay.part39.rar
+2024-11-22 01:11:45,701::INFO::[directunpacker:328] DirectUnpacked volume 51 for yay
+2024-11-22 01:11:45,702::INFO::[directunpacker:328] DirectUnpacked volume 62 for yay
+2024-11-22 01:11:45,783::INFO::[nzbstuff:1742] Detected filename based on par2: ac68b3ccce211a0a8f4454ec57a2cf8f -> yay.part35.rar
+2024-11-22 01:11:45,822::INFO::[nzbstuff:1742] Detected filename based on par2: 30fe8372d2c6231015acbe5528d6a1be -> yay.part22.rar
+2024-11-22 01:11:45,831::INFO::[assembler:88] Decoding finished /tmp/REDACTED_FILENAME/yay.part47.rar
+2024-11-22 01:11:45,835::INFO::[nzbstuff:1742] Detected filename based on par2: b3d85384d46d6f1c06f5f67ea6c41d39 -> yay.part24.rar
+2024-11-22 01:11:45,843::INFO::[nzbstuff:1742] Detected filename based on par2: 6b330eed955a751064fe7e7502e1083b -> yay.part52.rar
+2024-11-22 01:11:45,848::INFO::[nzbstuff:1742] Detected filename based on par2: 97c1c185734d4f9f63061b11aa50b47c -> yay.part46.rar
+2024-11-22 01:11:45,858::INFO::[nzbstuff:1742] Detected filename based on par2: 632868b8b3bc6f416edb5402a3a391d1 -> yay.part40.rar
+2024-11-22 01:11:45,871::INFO::[nzbstuff:1742] Detected filename based on par2: 38171264f3be59a6ce35e13ecc8f9462 -> yay.part67.rar
+2024-11-22 01:11:45,892::INFO::[nzbstuff:1742] Detected filename based on par2: d37e91b5b4fa91f4976fae34c21b5c1d -> yay.part57.rar
+2024-11-22 01:11:45,897::INFO::[nzbstuff:1742] Detected filename based on par2: c9f49e519fb42c3900eeb0bca3df045b -> yay.part66.rar
+2024-11-22 01:11:45,902::INFO::[directunpacker:328] DirectUnpacked volume 52 for yay
+2024-11-22 01:11:45,902::INFO::[directunpacker:227] Error in DirectUnpack of yay: Unexpected end of archive
+2024-11-22 01:11:45,902::INFO::[directunpacker:470] Aborting DirectUnpack for yay
+2024-11-22 01:11:45,902::INFO::[directunpacker:328] DirectUnpacked volume 63 for yay
+2024-11-22 01:11:45,951::INFO::[nzbstuff:1742] Detected filename based on par2: c65a7fd9d7f9102c8762d1ad5fd38a92 -> yay.part42.rar
+2024-11-22 01:11:45,962::INFO::[nzbstuff:1742] Detected filename based on par2: 4bc8fbe0b05bbe64f1ac9e2689322d5b -> yay.part55.rar
+2024-11-22 01:11:46,014::INFO::[assembler:88] Decoding finished /tmp/REDACTED_FILENAME/yay.part45.rar
+2024-11-22 01:11:46,083::INFO::[nzbstuff:1742] Detected filename based on par2: f6921d2f1596eeb109eea9efd9b84c53 -> yay.part10.rar
+2024-11-22 01:11:46,702::INFO::[filesystem:990] Cannot remove folder /media/download/usenet/series/_UNPACK_REDACTED_FILENAME
+Traceback (most recent call last):
+  File "/app/sabnzbd/filesystem.py", line 988, in remove_all
+    shutil.rmtree(path)
+    ~~~~~~~~~~~~~^^^^^^
+  File "/usr/local/lib/python3.13/shutil.py", line 763, in rmtree
+    _rmtree_safe_fd(stack, onexc)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.13/shutil.py", line 707, in _rmtree_safe_fd
+    onexc(func, path, err)
+    ~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.13/shutil.py", line 658, in _rmtree_safe_fd
+    os.rmdir(name, dir_fd=dirfd)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 39] Directory not empty: '/media/download/usenet/series/_UNPACK_REDACTED_FILENAME'
